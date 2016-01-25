@@ -1,0 +1,16 @@
+
+--Tools
+Gulp: Task manager for web porjects 
+Bower: for installing front-end dependencies
+JS Hint: Code quality enforcement (Detects potential errors and enforce coding conventions)
+JSCS: Enforces style conventions
+wiredep
+
+--Notes:
+(npm install --save-dev)  Dev is for dev dependencies and it would not get deployed
+Gulp install:npm install --save-dev gulp-jshint gulp-jscs jshint-stylish
+
+Templating Engine:
+--Jade: Goes through compiler and it looks different than HTML (FUCK IT!) 
+--Handlebars: Uses HTML and {{}} for variables so it can get confusing with Angular
+--
